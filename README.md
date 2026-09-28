@@ -1,4 +1,4 @@
-# veh_firstperson
+# Riddle-firstperson
 
 Forces first-person camera while aiming or shooting from any vehicle and restores the player's previous camera afterwards.
 
@@ -12,10 +12,10 @@ Forces first-person camera while aiming or shooting from any vehicle and restore
 
 ## Installation
 
-1. Put `veh_firstperson` into your `resources` folder
+1. Put `Riddle-firstperson` into your `resources` folder
 2. Add to `server.cfg`:
    ```
-   ensure veh_firstperson
+   ensure Riddle-firstperson
    ```
    If you use a framework or ox_lib, start it after them.
 
