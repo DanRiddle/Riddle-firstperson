@@ -43,3 +43,4 @@ Discord: https://discord.gg/t98E5Smesn
 ## License
 
 MIT – see [LICENSE](LICENSE)
+
